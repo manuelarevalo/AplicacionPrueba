@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{DCC80787-5E6D-46EF-B93A-CE92CF3CA001}|Default">
+  <MonoDevelop.Ide.ItemProperties.AplicacionPrueba.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.cfac59f3ba0a1d0eee1a8bd11817c48e4b6d86b9" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AplicacionPrueba/M000_BaseApp/M0003_Data/User_Data.cs">
+    <Files>
+      <File FileName="AplicacionPrueba/M0200_UserAuthentication/M0201_LogIn/LogIn_View.xaml" Line="8" Column="37" />
+      <File FileName="AplicacionPrueba/M0200_UserAuthentication/M0201_LogIn/LogIn_View.xaml.cs" />
+      <File FileName="AplicacionPrueba/M0200_UserAuthentication/M0201_LogIn/LogIn_Model.cs" />
+      <File FileName="AplicacionPrueba/M0200_UserAuthentication/M0201_LogIn/LogIn_ViewModel.cs" />
+      <File FileName="AplicacionPrueba/App.xaml.cs" />
+      <File FileName="AplicacionPrueba/M0200_UserAuthentication/M0201_LogIn/LogIn_Services/WebServices/LogIn_WebServices.cs" />
+      <File FileName="AplicacionPrueba/M000_BaseApp/M0003_Data/User_Data.cs" Line="36" Column="22" />
+      <File FileName="AplicacionPrueba/M000_BaseApp/M0001_Resources/Strings.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AplicacionPrueba" expanded="True">
+            <Node name="AplicacionPrueba" expanded="True">
+              <Node name="M000_BaseApp" expanded="True">
+                <Node name="M0003_Data" expanded="True">
+                  <Node name="User_Data.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AplicacionPrueba.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.5.0.617" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.5.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="M000_BaseApp\" />
+    <Folder Include="M0100_General\" />
+    <Folder Include="M0200_UserAuthentication\" />
+    <Folder Include="M0200_UserAuthentication\M0201_LogIn\" />
+    <Folder Include="M0200_UserAuthentication\M0201_LogIn\LogIn_Services\" />
+    <Folder Include="M0200_UserAuthentication\M0201_LogIn\LogIn_Services\WebServices\" />
+    <Folder Include="M0200_UserAuthentication\M0201_LogIn\LogIn_Services\WebServices\Requests\" />
+    <Folder Include="M0200_UserAuthentication\M0201_LogIn\LogIn_Services\WebServices\Responses\" />
+    <Folder Include="M000_BaseApp\M0001_Resources\" />
+    <Folder Include="M000_BaseApp\M0002_Devices\" />
+    <Folder Include="M000_BaseApp\M0003_Data\" />
+    <Folder Include="M000_BaseApp\M0004_DataBase\" />
+    <Folder Include="M000_BaseApp\M0005_Services\" />
+    <Folder Include="M000_BaseApp\M0006_Classes\" />
+    <Folder Include="M000_BaseApp\M0005_Services\Behaviors\" />
+    <Folder Include="M000_BaseApp\M0005_Services\Converters\" />
+    <Folder Include="M000_BaseApp\M0005_Services\Formatters\" />
+    <Folder Include="M000_BaseApp\M0005_Services\Processors\" />
+    <Folder Include="M000_BaseApp\M0005_Services\WebServices\" />
+    <Folder Include="M000_BaseApp\M0005_Services\WebServices\Responses\" />
+    <Folder Include="M000_BaseApp\M0005_Services\WebServices\Requests\" />
+  </ItemGroup>
+</Project>
