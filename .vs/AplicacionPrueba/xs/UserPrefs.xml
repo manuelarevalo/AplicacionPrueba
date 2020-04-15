@@ -8,7 +8,7 @@
       <File FileName="AplicacionPrueba/M0200_UserAuthentication/M0201_LogIn/LogIn_ViewModel.cs" />
       <File FileName="AplicacionPrueba/App.xaml.cs" />
       <File FileName="AplicacionPrueba/M0200_UserAuthentication/M0201_LogIn/LogIn_Services/WebServices/LogIn_WebServices.cs" />
-      <File FileName="AplicacionPrueba/M000_BaseApp/M0003_Data/User_Data.cs" Line="36" Column="22" />
+      <File FileName="AplicacionPrueba/M000_BaseApp/M0003_Data/User_Data.cs" Line="46" Column="1" />
       <File FileName="AplicacionPrueba/M000_BaseApp/M0001_Resources/Strings.cs" />
     </Files>
     <Pads>
