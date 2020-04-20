@@ -11,7 +11,7 @@ namespace AplicacionPrueba
         {
             InitializeComponent();
 
-            MainPage = new LogIn_View();
+            MainPage = new NavigationPage( new LogIn_View());
         }
 
         protected override void OnStart()

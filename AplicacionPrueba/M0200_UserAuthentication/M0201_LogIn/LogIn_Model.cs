@@ -9,19 +9,37 @@ namespace AplicacionPrueba.M0200_UserAuthentication.M0201_LogIn
         /// <summary>
         /// 
         /// </summary>
-        public string Empty
+        public string Email
         {
             get
             {
-                return _Empty;
+                return _Email;
             }
             set
             {
-                _Empty = value;
+                _Email = value;
                 OnPropertyChanged();
             }
         }
-        private string _Empty { get; set; } = string.Empty;
+        private string _Email { get; set; } = string.Empty;
+
+
+        /// <summary>
+        /// 
+        /// </summary>
+        public string Password
+        {
+            get
+            {
+                return _Password;
+            }
+            set
+            {
+                _Password = value;
+                OnPropertyChanged();
+            }
+        }
+        private string _Password { get; set; } = string.Empty;
 
 
 

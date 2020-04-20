@@ -37,4 +37,10 @@
     <Folder Include="M000_BaseApp\M0005_Services\WebServices\Responses\" />
     <Folder Include="M000_BaseApp\M0005_Services\WebServices\Requests\" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="M0100_General\LogIn_View.xaml.cs">
+      <DependentUpon>LogIn_View.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
 </Project>

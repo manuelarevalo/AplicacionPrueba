@@ -1,15 +1,13 @@
 ﻿<Properties StartupConfiguration="{DCC80787-5E6D-46EF-B93A-CE92CF3CA001}|Default">
-  <MonoDevelop.Ide.ItemProperties.AplicacionPrueba.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.cfac59f3ba0a1d0eee1a8bd11817c48e4b6d86b9" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AplicacionPrueba/M000_BaseApp/M0003_Data/User_Data.cs">
+  <MonoDevelop.Ide.ItemProperties.AplicacionPrueba.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.71AEDAF2-83CE-4163-A062-5F0FCC5169A4" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AplicacionPrueba/M000_BaseApp/M0005_Services/WebServices/URLCreator.cs">
     <Files>
-      <File FileName="AplicacionPrueba/M0200_UserAuthentication/M0201_LogIn/LogIn_View.xaml" Line="8" Column="37" />
-      <File FileName="AplicacionPrueba/M0200_UserAuthentication/M0201_LogIn/LogIn_View.xaml.cs" />
+      <File FileName="AplicacionPrueba/M000_BaseApp/M0005_Services/WebServices/URLCreator.cs" Line="22" Column="1" />
+      <File FileName="AplicacionPrueba/M0200_UserAuthentication/M0201_LogIn/LogIn_View.xaml" />
       <File FileName="AplicacionPrueba/M0200_UserAuthentication/M0201_LogIn/LogIn_Model.cs" />
       <File FileName="AplicacionPrueba/M0200_UserAuthentication/M0201_LogIn/LogIn_ViewModel.cs" />
+      <File FileName="AplicacionPrueba/App.xaml" />
       <File FileName="AplicacionPrueba/App.xaml.cs" />
-      <File FileName="AplicacionPrueba/M0200_UserAuthentication/M0201_LogIn/LogIn_Services/WebServices/LogIn_WebServices.cs" />
-      <File FileName="AplicacionPrueba/M000_BaseApp/M0003_Data/User_Data.cs" Line="46" Column="1" />
-      <File FileName="AplicacionPrueba/M000_BaseApp/M0001_Resources/Strings.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,10 +15,15 @@
           <Node name="AplicacionPrueba" expanded="True">
             <Node name="AplicacionPrueba" expanded="True">
               <Node name="M000_BaseApp" expanded="True">
-                <Node name="M0003_Data" expanded="True">
-                  <Node name="User_Data.cs" selected="True" />
-                </Node>
+                <Node name="M0001_Resources" expanded="True" />
               </Node>
+              <Node name="M0100_General" expanded="True">
+                <Node name="LogIn_View.xaml" expanded="True" selected="True" />
+              </Node>
+              <Node name="M0200_UserAuthentication" expanded="True">
+                <Node name="M0201_LogIn" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -29,7 +32,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.AplicacionPrueba.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

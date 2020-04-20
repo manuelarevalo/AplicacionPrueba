@@ -2,13 +2,12 @@
 <ContentPage
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    x:Class="AplicacionPrueba.M0200_UserAuthentication.M0201_LogIn.LogIn_View"
-    xmlns:resources="clr-namespace:AplicacionPrueba.M000_BaseApp.M0001_Resources">
+    x:Class="AplicacionPrueba.M0200_UserAuthentication.M0201_LogIn.LogIn_View">
     <ContentPage.Content>
         <StackLayout
             Padding="20">
             <Label
-                Text="{x:Static resources:Strings.FEMALE_STRING}"/>
+                Text="Correo electrónico"/>
             <Entry
                 Placeholder="Correo electrónico"
                 Text="{Binding Email}"/>

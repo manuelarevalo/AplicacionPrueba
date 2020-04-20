@@ -1,0 +1,6 @@
+/Users/manuelarevalo/Projects/AplicacionPrueba/AplicacionPrueba/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/manuelarevalo/Projects/AplicacionPrueba/AplicacionPrueba/obj/Debug/netstandard2.0/M0100_General/LogIn_View.xaml.g.cs
+/Users/manuelarevalo/Projects/AplicacionPrueba/AplicacionPrueba/obj/Debug/netstandard2.0/M0200_UserAuthentication/M0201_LogIn/LogIn_View.xaml.g.cs
+/Users/manuelarevalo/Projects/AplicacionPrueba/AplicacionPrueba/obj/Debug/netstandard2.0/AplicacionPrueba.csproj.CoreCompileInputs.cache
+/Users/manuelarevalo/Projects/AplicacionPrueba/AplicacionPrueba/obj/Debug/netstandard2.0/AplicacionPrueba.AssemblyInfoInputs.cache
+/Users/manuelarevalo/Projects/AplicacionPrueba/AplicacionPrueba/obj/Debug/netstandard2.0/AplicacionPrueba.AssemblyInfo.cs

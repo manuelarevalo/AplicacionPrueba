@@ -64,5 +64,12 @@ namespace AplicacionPrueba.M000_BaseApp.M0001_Resources
         /// 
         /// </summary>
         public static string UNISEX_STRING { get { return "Unisex"; } }
+
+
+
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string EMAIL_STRING { get { return "Correo"; } }
     }
 }
